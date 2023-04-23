@@ -1,0 +1,42 @@
+/* body{
+    background-color: orange;
+} */
+
+.container-login{
+    width: 30%;
+    border: 1px solid black;
+    margin: 150px 0 0 450px;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: gray;
+}
+input{
+    text-align: center;
+    padding: 10px;
+    margin: 10px 10px 10px 25px;
+}
+.button-login{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: large;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+button{
+    padding: 10px 33%;
+}
+input{
+    width: 80%;
+}
+
+.kkd{
+    margin: 0 10px 20px 38%;
+    color: red;
+    cursor: pointer;
+}

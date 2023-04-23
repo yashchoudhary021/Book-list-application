@@ -1,0 +1,79 @@
+
+.container{
+    border: 2px solid black;
+    padding: 15px 15px;
+    display: flex;
+}
+#main{
+    cursor: pointer;
+}
+#login{
+    cursor: pointer;
+    margin-left: 80%;
+    margin-right: 2%;
+}
+#register{
+    cursor: pointer;
+}
+
+.card{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 16%;
+    padding: 10px;
+}
+img{
+    /* margin: 10px 10px 10px 10px; */
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.titel{
+    color: blue;
+}
+.author{
+    color: gray;
+}
+
+.container-home{
+    margin-left: 70px;
+    display: flex;
+    cursor: pointer;
+}
+.home-btn{
+    padding: 10px 30px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 70%;
+    cursor: pointer;
+}
+.home-btn2{
+    padding: 10px 30px;
+    border: 2px solid orange;
+    color: orange;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 2%;
+    margin-left: 20%;
+    cursor: pointer;
+    background-color: rgb(18, 18, 70);
+}
+#book{
+    margin-top: 10px;
+}
+.cc{
+    text-align: center;
+}
+
+table{
+    background-color: black;
+    color: white;
+    margin: 40px 0 0 390px;
+}
+td{
+    padding: 10px 50px;
+}
